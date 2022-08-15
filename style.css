@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+    padding: 2px;
+}
+form{
+    background-color: white;
+    width: 25%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: aliceblue;
+}
+.submit{
+    background-color: rgb(74, 74, 136);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding:0.5em 1em;
+    margin-top: 1em;
+
+
+}
